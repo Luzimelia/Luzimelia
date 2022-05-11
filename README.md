@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luzimélia</h1>
 <h3 align="center">A learn dev from Brasil</h3>
 
-<p align="left"> <a href="https://twitter.com/@luzimelia" target="blank"><img src="https://img.shields.io/twitter/follow/@luzimelia?logo=twitter&style=for-the-badge" alt="@luzimelia" /></a> </p>
+
 
 - 🌱 I’m currently learning **frontend, backend and agile methodologies**
 
